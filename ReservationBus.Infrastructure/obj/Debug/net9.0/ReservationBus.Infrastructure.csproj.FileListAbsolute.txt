@@ -1,0 +1,14 @@
+/Users/splitti1/Projects/Anderson/ReservationBus/ReservationBus.Infrastructure/bin/Debug/net9.0/ReservationBus.Infrastructure.deps.json
+/Users/splitti1/Projects/Anderson/ReservationBus/ReservationBus.Infrastructure/bin/Debug/net9.0/ReservationBus.Infrastructure.dll
+/Users/splitti1/Projects/Anderson/ReservationBus/ReservationBus.Infrastructure/bin/Debug/net9.0/ReservationBus.Infrastructure.pdb
+/Users/splitti1/Projects/Anderson/ReservationBus/ReservationBus.Infrastructure/obj/Debug/net9.0/ReservationBus.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/splitti1/Projects/Anderson/ReservationBus/ReservationBus.Infrastructure/obj/Debug/net9.0/ReservationBus.Infrastructure.AssemblyInfoInputs.cache
+/Users/splitti1/Projects/Anderson/ReservationBus/ReservationBus.Infrastructure/obj/Debug/net9.0/ReservationBus.Infrastructure.AssemblyInfo.cs
+/Users/splitti1/Projects/Anderson/ReservationBus/ReservationBus.Infrastructure/obj/Debug/net9.0/ReservationBus.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/splitti1/Projects/Anderson/ReservationBus/ReservationBus.Infrastructure/obj/Debug/net9.0/ReservationBus.Infrastructure.dll
+/Users/splitti1/Projects/Anderson/ReservationBus/ReservationBus.Infrastructure/obj/Debug/net9.0/refint/ReservationBus.Infrastructure.dll
+/Users/splitti1/Projects/Anderson/ReservationBus/ReservationBus.Infrastructure/obj/Debug/net9.0/ReservationBus.Infrastructure.pdb
+/Users/splitti1/Projects/Anderson/ReservationBus/ReservationBus.Infrastructure/obj/Debug/net9.0/ref/ReservationBus.Infrastructure.dll
+/Users/splitti1/Projects/Anderson/ReservationBus/ReservationBus.Infrastructure/bin/Debug/net9.0/ReservationBus.Infrastructure.runtimeconfig.json
+/Users/splitti1/Projects/Anderson/ReservationBus/ReservationBus.Infrastructure/obj/Debug/net9.0/ReservationBus.Infrastructure.genruntimeconfig.cache
+/Users/splitti1/Projects/Anderson/ReservationBus/ReservationBus.Infrastructure/obj/Debug/net9.0/ReservationBus.Infrastructure.csproj.AssemblyReference.cache

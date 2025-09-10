@@ -1,0 +1,11 @@
+/Users/splitti1/Projects/Anderson/ReservationBus/ReservationBus.Domain/bin/Debug/net9.0/ReservationBus.Domain.deps.json
+/Users/splitti1/Projects/Anderson/ReservationBus/ReservationBus.Domain/bin/Debug/net9.0/ReservationBus.Domain.dll
+/Users/splitti1/Projects/Anderson/ReservationBus/ReservationBus.Domain/bin/Debug/net9.0/ReservationBus.Domain.pdb
+/Users/splitti1/Projects/Anderson/ReservationBus/ReservationBus.Domain/obj/Debug/net9.0/ReservationBus.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/splitti1/Projects/Anderson/ReservationBus/ReservationBus.Domain/obj/Debug/net9.0/ReservationBus.Domain.AssemblyInfoInputs.cache
+/Users/splitti1/Projects/Anderson/ReservationBus/ReservationBus.Domain/obj/Debug/net9.0/ReservationBus.Domain.AssemblyInfo.cs
+/Users/splitti1/Projects/Anderson/ReservationBus/ReservationBus.Domain/obj/Debug/net9.0/ReservationBus.Domain.csproj.CoreCompileInputs.cache
+/Users/splitti1/Projects/Anderson/ReservationBus/ReservationBus.Domain/obj/Debug/net9.0/ReservationBus.Domain.dll
+/Users/splitti1/Projects/Anderson/ReservationBus/ReservationBus.Domain/obj/Debug/net9.0/refint/ReservationBus.Domain.dll
+/Users/splitti1/Projects/Anderson/ReservationBus/ReservationBus.Domain/obj/Debug/net9.0/ReservationBus.Domain.pdb
+/Users/splitti1/Projects/Anderson/ReservationBus/ReservationBus.Domain/obj/Debug/net9.0/ref/ReservationBus.Domain.dll
